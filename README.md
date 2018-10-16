@@ -1,37 +1,21 @@
 # Abode3
 
-
-One Paragraph of project description goes here
+Abode3 is an android app to help Tenants find a place to rent.It also gives a facility of direct communication between Landlords and Tenants through chat feature.Tenants can get the location through Google Maps which is included in the app itself.Landlords have to upload images of the property so that Tenants can have a look at it.This app also provides the Landlords the facility to verify the Tanants by contacting the Verifiers of respective city. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To run this project you need to install Android Studio 3.1.4 then run it on your smartphone
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Android Studio 3.1.4
+Smartphone with sdk greater than 15
+Data Cable
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
-```
-Give the example
-```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
